@@ -1,0 +1,15 @@
+{
+  "rewrites": [],
+  "redirects": [
+    {
+      "source": "/sales-dashboard",
+      "destination": "https://script.google.com/macros/s/AKfycbxSVHDOWgbDzP-pJIQqNrrCJ1T9HvXKzANef4TqhnN29M-tO8oR7wj9F59OjJeSQiqj/exec",
+      "permanent": false
+    },
+    {
+      "source": "/dashboard",
+      "destination": "https://script.google.com/macros/s/AKfycbxSVHDOWgbDzP-pJIQqNrrCJ1T9HvXKzANef4TqhnN29M-tO8oR7wj9F59OjJeSQiqj/exec",
+      "permanent": false
+    }
+  ]
+}
